@@ -67,6 +67,3 @@ Run unit tests:
 - **Timeouts in WebSocket Tests**: Ensure endpoints match and try `CompletableFuture` for async response handling.
 - **WebSocket Issues**: Check configurations in WebSocket-related endpoints and the `WebSocketControllerTest`.
 
-## License
-
-This project is licensed under the MIT License.
